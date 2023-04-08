@@ -1,0 +1,561 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+                              C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.1.130/gcc/dev/atmega32/avr5/crtatmega32.o (exit)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+                              main.o (__do_clear_bss)
+
+Discarded input sections
+
+ .data          0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.1.130/gcc/dev/atmega32/avr5/crtatmega32.o
+ .bss           0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.1.130/gcc/dev/atmega32/avr5/crtatmega32.o
+ .text          0x00000000        0x0 ECUAL/Button/BUTTON.o
+ .data          0x00000000        0x0 ECUAL/Button/BUTTON.o
+ .bss           0x00000000        0x0 ECUAL/Button/BUTTON.o
+ .text.BTN0_GetValue
+                0x00000000       0x34 ECUAL/Button/BUTTON.o
+ .text          0x00000000        0x0 ECUAL/led/LED.o
+ .data          0x00000000        0x0 ECUAL/led/LED.o
+ .bss           0x00000000        0x0 ECUAL/led/LED.o
+ .text.LED0_Toggle
+                0x00000000       0x1e ECUAL/led/LED.o
+ .text.LED1_Toggle
+                0x00000000       0x1e ECUAL/led/LED.o
+ .text.LED2_Toggle
+                0x00000000       0x1e ECUAL/led/LED.o
+ .text.LED3_Toggle
+                0x00000000       0x1e ECUAL/led/LED.o
+ .text          0x00000000        0x0 main.o
+ .data          0x00000000        0x0 main.o
+ .bss           0x00000000        0x0 main.o
+ .text          0x00000000        0x0 MCAL/DIO.o
+ .data          0x00000000        0x0 MCAL/DIO.o
+ .bss           0x00000000        0x0 MCAL/DIO.o
+ .text.DIO_TogglePin
+                0x00000000       0x68 MCAL/DIO.o
+ .text.DIO_ReadPin_Value
+                0x00000000       0x68 MCAL/DIO.o
+ .text.DIO_SetPort_Direction
+                0x00000000       0x20 MCAL/DIO.o
+ .text.DIO_SetPort_Value
+                0x00000000       0x20 MCAL/DIO.o
+ .text.DIO_TogglePort
+                0x00000000       0x30 MCAL/DIO.o
+ .text.DIO_ReadPort_Value
+                0x00000000       0x30 MCAL/DIO.o
+ .text.DIO_SetPULLUP
+                0x00000000       0x68 MCAL/DIO.o
+ .text          0x00000000        0x0 MCAL/EXT_INTRUPPT.o
+ .data          0x00000000        0x0 MCAL/EXT_INTRUPPT.o
+ .bss           0x00000000        0x0 MCAL/EXT_INTRUPPT.o
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000002         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+user_signatures  0x00850000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.1.130/gcc/dev/atmega32/avr5/crtatmega32.o
+LOAD ECUAL/Button/BUTTON.o
+LOAD ECUAL/led/LED.o
+LOAD main.o
+LOAD MCAL/DIO.o
+LOAD MCAL/EXT_INTRUPPT.o
+START GROUP
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a
+END GROUP
+START GROUP
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a
+LOAD C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.1.130/gcc/dev/atmega32/avr5\libatmega32.a
+END GROUP
+                0x00020000                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x20000
+                0x0000ffa0                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xffa0
+                0x00010000                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x00000002]                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x00000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x00000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x00000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000      0x574
+ *(.vectors)
+ .vectors       0x00000000       0x54 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.1.130/gcc/dev/atmega32/avr5/crtatmega32.o
+                0x00000000                __vector_default
+                0x00000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+                0x00000054                . = ALIGN (0x2)
+                0x00000054                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00000054        0x0 linker stubs
+ *(.trampolines*)
+                0x00000054                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+ *(.progmem*)
+                0x00000054                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x00000054                __ctors_start = .
+ *(.ctors)
+                0x00000054                __ctors_end = .
+                0x00000054                __dtors_start = .
+ *(.dtors)
+                0x00000054                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x00000054        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.1.130/gcc/dev/atmega32/avr5/crtatmega32.o
+                0x00000054                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00000054        0xc C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.1.130/gcc/dev/atmega32/avr5/crtatmega32.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00000060       0x10 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+                0x00000060                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00000070        0x8 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.1.130/gcc/dev/atmega32/avr5/crtatmega32.o
+ *(.init9)
+ *(.text)
+ .text          0x00000078        0x4 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.1.130/gcc/dev/atmega32/avr5/crtatmega32.o
+                0x00000078                __vector_12
+                0x00000078                __bad_interrupt
+                0x00000078                __vector_6
+                0x00000078                __vector_3
+                0x00000078                __vector_11
+                0x00000078                __vector_13
+                0x00000078                __vector_17
+                0x00000078                __vector_19
+                0x00000078                __vector_7
+                0x00000078                __vector_5
+                0x00000078                __vector_4
+                0x00000078                __vector_9
+                0x00000078                __vector_2
+                0x00000078                __vector_15
+                0x00000078                __vector_8
+                0x00000078                __vector_14
+                0x00000078                __vector_10
+                0x00000078                __vector_16
+                0x00000078                __vector_18
+                0x00000078                __vector_20
+                0x0000007c                . = ALIGN (0x2)
+ *(.text.*)
+ .text.BTN0_Init
+                0x0000007c       0x20 ECUAL/Button/BUTTON.o
+                0x0000007c                BTN0_Init
+ .text.LED0_Init
+                0x0000009c       0x20 ECUAL/led/LED.o
+                0x0000009c                LED0_Init
+ .text.LED0_ON  0x000000bc       0x20 ECUAL/led/LED.o
+                0x000000bc                LED0_ON
+ .text.LED0_OFF
+                0x000000dc       0x20 ECUAL/led/LED.o
+                0x000000dc                LED0_OFF
+ .text.LED1_Init
+                0x000000fc       0x20 ECUAL/led/LED.o
+                0x000000fc                LED1_Init
+ .text.LED1_ON  0x0000011c       0x20 ECUAL/led/LED.o
+                0x0000011c                LED1_ON
+ .text.LED1_OFF
+                0x0000013c       0x20 ECUAL/led/LED.o
+                0x0000013c                LED1_OFF
+ .text.LED2_Init
+                0x0000015c       0x20 ECUAL/led/LED.o
+                0x0000015c                LED2_Init
+ .text.LED2_ON  0x0000017c       0x20 ECUAL/led/LED.o
+                0x0000017c                LED2_ON
+ .text.LED2_OFF
+                0x0000019c       0x20 ECUAL/led/LED.o
+                0x0000019c                LED2_OFF
+ .text.LED3_Init
+                0x000001bc       0x20 ECUAL/led/LED.o
+                0x000001bc                LED3_Init
+ .text.LED3_ON  0x000001dc       0x20 ECUAL/led/LED.o
+                0x000001dc                LED3_ON
+ .text.LED3_OFF
+                0x000001fc       0x20 ECUAL/led/LED.o
+                0x000001fc                LED3_OFF
+ .text.main     0x0000021c      0x13c main.o
+                0x0000021c                main
+ .text.__vector_1
+                0x00000358       0x34 main.o
+                0x00000358                __vector_1
+ .text.DIO_SetPin_Direction
+                0x0000038c       0xe2 MCAL/DIO.o
+                0x0000038c                DIO_SetPin_Direction
+ .text.DIO_SetPin_Value
+                0x0000046e       0xe2 MCAL/DIO.o
+                0x0000046e                DIO_SetPin_Value
+ .text.EXT_INT0_Init
+                0x00000550       0x20 MCAL/EXT_INTRUPPT.o
+                0x00000550                EXT_INT0_Init
+                0x00000570                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00000570        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+                0x00000570                _exit
+                0x00000570                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00000570        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00000574                _etext = .
+
+.data           0x00800060        0x0 load address 0x00000574
+                [!provide]                PROVIDE (__data_start, .)
+ *(.data)
+ *(.data*)
+ *(.rodata)
+ *(.rodata*)
+ *(.gnu.linkonce.d*)
+                0x00800060                . = ALIGN (0x2)
+                0x00800060                _edata = .
+                [!provide]                PROVIDE (__data_end, .)
+
+.bss            0x00800060        0x1
+                0x00800060                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ .bss.counter   0x00800060        0x1 main.o
+ *(COMMON)
+                0x00800061                PROVIDE (__bss_end, .)
+                0x00000574                __data_load_start = LOADADDR (.data)
+                0x00000574                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x00800061        0x0
+                [!provide]                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                [!provide]                PROVIDE (__noinit_end, .)
+                0x00800061                _end = .
+                [!provide]                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x30
+ *(.comment)
+ .comment       0x00000000       0x30 ECUAL/Button/BUTTON.o
+                                 0x31 (size before relaxing)
+ .comment       0x00000030       0x31 ECUAL/led/LED.o
+ .comment       0x00000030       0x31 main.o
+ .comment       0x00000030       0x31 MCAL/DIO.o
+ .comment       0x00000030       0x31 MCAL/EXT_INTRUPPT.o
+
+.note.gnu.avr.deviceinfo
+                0x00000000       0x3c
+ .note.gnu.avr.deviceinfo
+                0x00000000       0x3c C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.1.130/gcc/dev/atmega32/avr5/crtatmega32.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x168
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x28 ECUAL/Button/BUTTON.o
+ .debug_aranges
+                0x00000028       0x98 ECUAL/led/LED.o
+ .debug_aranges
+                0x000000c0       0x28 main.o
+ .debug_aranges
+                0x000000e8       0x60 MCAL/DIO.o
+ .debug_aranges
+                0x00000148       0x20 MCAL/EXT_INTRUPPT.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0x1683
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0x4e6 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.1.130/gcc/dev/atmega32/avr5/crtatmega32.o
+ .debug_info    0x000004e6      0x1e8 ECUAL/Button/BUTTON.o
+ .debug_info    0x000006ce      0x757 ECUAL/led/LED.o
+ .debug_info    0x00000e25      0x51a main.o
+ .debug_info    0x0000133f      0x29a MCAL/DIO.o
+ .debug_info    0x000015d9       0xaa MCAL/EXT_INTRUPPT.o
+
+.debug_abbrev   0x00000000      0x89d
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x4a3 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.1.130/gcc/dev/atmega32/avr5/crtatmega32.o
+ .debug_abbrev  0x000004a3       0xf9 ECUAL/Button/BUTTON.o
+ .debug_abbrev  0x0000059c      0x107 ECUAL/led/LED.o
+ .debug_abbrev  0x000006a3      0x108 main.o
+ .debug_abbrev  0x000007ab       0xa1 MCAL/DIO.o
+ .debug_abbrev  0x0000084c       0x51 MCAL/EXT_INTRUPPT.o
+
+.debug_line     0x00000000      0xccb
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000      0x115 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.1.130/gcc/dev/atmega32/avr5/crtatmega32.o
+ .debug_line    0x00000115      0x14b ECUAL/Button/BUTTON.o
+ .debug_line    0x00000260      0x476 ECUAL/led/LED.o
+ .debug_line    0x000006d6      0x229 main.o
+ .debug_line    0x000008ff      0x2f9 MCAL/DIO.o
+ .debug_line    0x00000bf8       0xd3 MCAL/EXT_INTRUPPT.o
+
+.debug_frame    0x00000000      0x268
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x44 ECUAL/Button/BUTTON.o
+ .debug_frame   0x00000044      0x114 ECUAL/led/LED.o
+ .debug_frame   0x00000158       0x48 main.o
+ .debug_frame   0x000001a0       0xa4 MCAL/DIO.o
+ .debug_frame   0x00000244       0x24 MCAL/EXT_INTRUPPT.o
+
+.debug_str      0x00000000      0x5ef
+ *(.debug_str)
+ .debug_str     0x00000000      0x196 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.1.130/gcc/dev/atmega32/avr5/crtatmega32.o
+ .debug_str     0x00000196      0x226 ECUAL/Button/BUTTON.o
+                                0x25a (size before relaxing)
+ .debug_str     0x000003bc      0x167 ECUAL/led/LED.o
+                                0x2cb (size before relaxing)
+ .debug_str     0x00000523       0x32 main.o
+                                0x2c6 (size before relaxing)
+ .debug_str     0x00000555       0x7b MCAL/DIO.o
+                                0x250 (size before relaxing)
+ .debug_str     0x000005d0       0x1f MCAL/EXT_INTRUPPT.o
+                                0x1bd (size before relaxing)
+
+.debug_loc      0x00000000      0xf77
+ *(.debug_loc)
+ .debug_loc     0x00000000      0x192 ECUAL/Button/BUTTON.o
+ .debug_loc     0x00000192      0x9e0 ECUAL/led/LED.o
+ .debug_loc     0x00000b72       0x49 main.o
+ .debug_loc     0x00000bbb      0x3bc MCAL/DIO.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000      0x118
+ *(.debug_ranges)
+ .debug_ranges  0x00000000       0x18 ECUAL/Button/BUTTON.o
+ .debug_ranges  0x00000018       0x88 ECUAL/led/LED.o
+ .debug_ranges  0x000000a0       0x18 main.o
+ .debug_ranges  0x000000b8       0x50 MCAL/DIO.o
+ .debug_ranges  0x00000108       0x10 MCAL/EXT_INTRUPPT.o
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(light sequence.elf elf32-avr)
+LOAD linker stubs
