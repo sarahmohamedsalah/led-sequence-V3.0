@@ -21,7 +21,8 @@ main.d main.o: .././main.c \
  .././ECUAL/button/../../MCAL/BIT_MATH.h \
  .././ECUAL/button/../../MCAL/STD_TYPES.h \
  .././ECUAL/button/../../MCAL/DIO.h .././ECUAL/led/LED.h \
- .././ECUAL/led/../../MCAL/DIO.h
+ .././ECUAL/led/../../MCAL/DIO.h .././MCAl/EXT_INTRUPPT.h \
+ .././MCAl/CPU_CONFIGURATION.h
 
 c:\program\ files\ (x86)\atmel\studio\7.0\toolchain\avr8\avr8-gnu-toolchain\avr\include\avr\io.h:
 
@@ -72,3 +73,7 @@ c:\program\ files\ (x86)\atmel\studio\7.0\toolchain\avr8\avr8-gnu-toolchain\avr\
 .././ECUAL/led/LED.h:
 
 .././ECUAL/led/../../MCAL/DIO.h:
+
+.././MCAl/EXT_INTRUPPT.h:
+
+.././MCAl/CPU_CONFIGURATION.h:

@@ -24,4 +24,8 @@ typedef enum buttonErrors{
 
 EN_buttonError_t BTN0_GetValue(uint8_t buttonPort, uint8_t buttonPin);
 EN_buttonError_t BTN0_Init(uint8_t buttonPort, uint8_t buttonPin);
+
+
+EN_buttonError_t BTN1_GetValue(uint8_t buttonPort, uint8_t buttonPin);
+EN_buttonError_t BTN1_Init(uint8_t buttonPort, uint8_t buttonPin);
 #endif /* BUTTON_H_ */
